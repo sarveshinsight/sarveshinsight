@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently prusing data science and big data analysis<br>I am currrently in SY @ MITWPU<br>I know python C GO(Basic) nodejs(Basic)<br>I have worked with google cloud and many hosting providers<br>I Have used multiple linux distro and docker containers<br>help improve uptime fix issues and bugs
+Currently prusing data science and big data analysis<br>I am currrently in SY @ MITWPU<br>I know python C GO(Basic) nodejs(Basic)<br>I got badges and certification google cloud and many hosting providers<br>I Have used multiple linux distro and docker containers<br>help improve uptime fix issues and bugs
 
 
 ## 🌐 Socials:
